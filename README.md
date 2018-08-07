@@ -1,3 +1,14 @@
+The UI portion of my little subscription example
+
+Built using React and Apollo.
+
+To Run:
+
+- npm install
+- npm start
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
